@@ -1,7 +1,6 @@
 python-dateutil
 setuptools
 ruamel.yaml
-qrcode~=6.1
 Pillow
 pyautogui
 requests
