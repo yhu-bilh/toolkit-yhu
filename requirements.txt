@@ -16,3 +16,7 @@ tqdm
 matplotlib
 pyodbc
 seaborn
+nova-act
+openbb
+ldap3
+pydiscourse
